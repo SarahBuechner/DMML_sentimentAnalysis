@@ -1,2 +1,2 @@
 # DMML
-private respository
+End of year project
